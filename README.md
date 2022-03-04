@@ -16,7 +16,7 @@ recommendations were done by me.
 
 The data is provided by Bikeshare (Divvy), a company who operates the
 City of Chicago’s bike-sharing service, (you can see the license to use
-the data ***here***).
+the data [here](https://ride.divvybikes.com/data-license-agreement) ).
 
 For this exercise, the name Cyclistic will be used as the fictitious
 company that provides the data.
