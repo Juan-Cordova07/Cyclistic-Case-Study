@@ -266,12 +266,6 @@ year_2015_f2 <- year_2015_f2 %>%
     function to unite the “from_station_name” column with the
     “to_station_name” column
 
-``` r
-year_2015_f2 <- year_2015_f2 %>% 
-  unite("trip_rute", from_station_name, to_station_name, sep = " to ",
-        remove = FALSE)
-```
-
 -   Top 10 routes (complete trips) of annual members
 
 ![](Cyclistic-Case-Study_files/figure-gfm/unnamed-chunk-32-1.png)<!-- -->
