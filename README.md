@@ -289,9 +289,11 @@ year_2015_f2 <- year_2015_f2 %>%
 -   Percentage of trips by day of the week
 
 ![](Cyclistic-Case-Study_files/figure-gfm/unnamed-chunk-41-1.png)<!-- -->
-Casual riders use the system mainly on weekends, concentrating 47.9% of
-their trips between Saturday and Sunday, \* Percentage of trips by day
-of the week of each month
+
+-   Casual riders use the system mainly on weekends, concentrating 47.9% of
+their trips between Saturday and Sunday
+
+-   Percentage of trips by day of the week of each month
 
 ![](Cyclistic-Case-Study_files/figure-gfm/unnamed-chunk-43-1.png)<!-- -->
 
